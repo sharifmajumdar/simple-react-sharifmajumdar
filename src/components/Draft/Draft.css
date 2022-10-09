@@ -1,0 +1,9 @@
+.draft-conteiner{
+    display: flex;
+}
+.item-container{
+    width: 50%;
+    margin-left: 300px;
+    margin-right: 10px;
+    border-right: 1px solid lightgray;
+}

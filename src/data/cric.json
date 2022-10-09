@@ -1,0 +1,158 @@
+{
+    "cricketers": [
+      {
+        "id": 1,
+        "name": "Mahmadullah Riyad",
+        "email": "mriyad@gmail.com",
+        "age": "33",
+        "gender": "Male",
+        "image": "https://api.bdcrictime.com/players/346.png",
+        "salary": "500000",
+        "country": "Bangladesh"
+      }, {
+        "id": 2,
+        "name": "Sakib Al-Hasan",
+        "email": "salhasan@gmail.com",
+        "age": "34",
+        "gender": "Male",
+        "image": "https://api.bdcrictime.com/players/348.png",
+        "salary": "700000",
+        "country": "Bangladesh"
+      }, {
+        "id": 3,
+        "name": "Tamim Iqbal",
+        "email": "tiqbal@gmail.com",
+        "age": "35",
+        "gender": "Male",
+        "image": "https://api.bdcrictime.com/players/342.png",
+        "salary": "500000",
+        "country": "Bangladesh"
+      }, {
+        "id": 4,
+        "name": "Mushfiqur Rohim",
+        "email": "mrohim@gmail.com",
+        "age": "34",
+        "gender": "Male",
+        "image": "https://api.bdcrictime.com/Muhsfiqur%20Rahim.jpg",
+        "salary": "500000",
+        "country": "Bangladesh"
+      }, {
+        "id": 5,
+        "name": "Mustafizur Rahman",
+        "email": "mrahman@gmail.com",
+        "age": "25",
+        "gender": "Male",
+        "image": "https://api.bdcrictime.com/players/1745.png",
+        "salary": "400000",
+        "country": "Bangladesh"
+      }, {
+        "id": 6,
+        "name": "Liton Das",
+        "email": "ldas@yahoo.com",
+        "age": "24",
+        "gender": "Male",
+        "image": "https://api.bdcrictime.com/players/37360.png",
+        "salary": "350000",
+        "country": "Bangladesh"
+      }, {
+        "id": 7,
+        "name": "Munim Shahriar",
+        "email": "mshahriar@yahoo.com",
+        "age": "23",
+        "gender": "Male",
+        "image": "https://api.bdcrictime.com/players/57429.png",
+        "salary": "50000",
+        "country": "Bangladesh"
+      }, {
+        "id": 8,
+        "name": "Sabbir Rahman",
+        "email": "srahman@ymail.com",
+        "age": "24",
+        "gender": "Male",
+        "image": "https://api.bdcrictime.com/players/352.png",
+        "salary": "100000",
+        "country": "Bangladesh"
+      }, {
+        "id": 9,
+        "name": "Sumiya Sarker",
+        "email": "ssarker@gmail.com",
+        "age": "25",
+        "gender": "Male",
+        "image": "https://api.bdcrictime.com/players/344.png",
+        "salary": "75000",
+        "country": "Bangladesh"
+      }, {
+        "id": 10,
+        "name": "Aminul Islam",
+        "email": "aislam@gmail.com",
+        "age": "27",
+        "gender": "Male",
+        "image": "https://api.bdcrictime.com/players/93469.png",
+        "salary": "100000",
+        "country": "Bangladesh"
+      }, {
+        "id": 11,
+        "name": "Taskin Ahmed",
+        "email": "tahmed@gmail.com",
+        "age": "25",
+        "gender": "Male",
+        "image": "https://api.bdcrictime.com/players/360.png",
+        "salary": "150000",
+        "country": "Bangladesh"
+      }, {
+        "id": 12,
+        "name": "Afif Hossain",
+        "email": "ahossain@gmail.com",
+        "age": "21",
+        "gender": "Male",
+        "image": "https://api.bdcrictime.com/players/90539.png",
+        "salary": "50000",
+        "country": "Bangladesh"
+      }, {
+        "id": 13,
+        "name": "Shoriful Islam",
+        "email": "sislam@gmail.com",
+        "age": "32",
+        "gender": "Male",
+        "image": "https://api.bdcrictime.com/players/63752.png",
+        "salary": "125000",
+        "country": "Bangladesh"
+      }, {
+        "id": 14,
+        "name": "Mohammad Saifuddin",
+        "email": "msaifuddin@yahoo.com",
+        "age": "26",
+        "gender": "Male",
+        "image":"https://api.bdcrictime.com/players/1021.png",
+        "salary": "200000",
+        "country": "Bangladesh"
+      }, {
+        "id": 15,
+        "name": "Mahedi Hasan",
+        "email": "mhasan@gmail.com.com",
+        "age": "22",
+        "gender": "Male",
+        "image": "https://api.bdcrictime.com/players/55142.png",
+        "salary": "75000",
+        "country": "Bangladesh"
+      }, {
+        "id": 16,
+        "name": "Rubel Hossain",
+        "email": "rhossain@yahoo.com",
+        "age": "30",
+        "gender": "Male",
+        "image": "https://api.bdcrictime.com/players/358.png",
+        "salary": "200000",
+        "country": "Bangladesh"
+      }, {
+        "id": 17,
+        "name": "Nurul Hasan",
+        "email": "nhasan@yahoo.com",
+        "age": "24",
+        "gender": "Male",
+        "image": "https://api.bdcrictime.com/players/1743.png",
+        "salary": "300000",
+        "country": "Bangladesh"
+      }
+    ]
+  }

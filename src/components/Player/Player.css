@@ -1,0 +1,25 @@
+.player{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    margin-right: 10px;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+}
+.player img{
+    width: 200px;
+    height: 200px;
+}
+.player-name{
+    font-weight: 400;
+    color: black;
+    margin-left: 50px;
+}
+.add-button{
+    background-color: brown;
+    height: 35px;
+    width: 200px;
+    border: 1px solid lightcoral;
+    border-radius: 5px;
+    color: azure;
+    cursor: pointer;
+}
